@@ -47,3 +47,87 @@ UML - linguagem de modelagem unificada
 agilidade = é entregar o valor rapidamente, valor é tudo aquilo que tem importância para o cliente.
 
 time-box = caixa de tempo, tem um tempo pre definido para ser colocado em pratica nas reuniões e cerimônia
+
+
+==================
+
+Roadmap, dúvidas e observações
+
+*********scrum*********
+
+(Waterfall) cascata
+
+requerimentos
+do sistema
+
+		   requerimentos
+			de software
+
+					Analise
+
+						Design
+
+							Codar
+							--------------------------	
+							                            --------> a partir daqui o cliente começa a ver o projeto
+								Testar
+
+									Produção
+
+
+(RUP) 
+O que É Rational Unified Process ou RUP?
+O Núcleo do RUP
+Em sua essência, o RUP® (Rational Unified Process®) diz respeito a um desenvolvimento de software bem-sucedido. Há três elementos centrais que definem o RUP:
+
+   *interativo != iterativo*
+
+	(UML)  		
+(Unified Modeling Language) é uma linguagem poderosa para comunicação em equipes de produção de software
+
+Agilidade e entregar valor rapidamente
+
+
+intro ===========SCRUM==========
+
+
+processo ágil
+permite a rápida inspeção do software
+
+livro
+*the mythical man month by fredereick brooks, 1975
+
+3 pilares
+
+1 transparência
+2 isercao  
+3 adaptação
+
+
+
+
+
+SCRUM:
+
+CONSISTE EM DIVIDIR O PROJETO EM PEQUENAS PARTES, DENOMINADAS SPRINTS. ASSIM QUE UMA SPRINT FINALIZA OUTRA SE INCIA,
+CONTINUANDO O CICLO ATÉ O FIM DO PROJETO.
+
+
+ - BACKLOG DO PRODUTO
+
+ - BACKLOG DA SPRINT
+
+ - REUNIÕES DIÁRIAS DE NO MÁXIMO 15 MINUTOS
+
+ - OBJETIVO DAS REUNIÕES: SABER COMO CADA INTEGRANTE DA EQUIPE ESTÁ SE SAINDO, ALEM DE REALIZAR 3 PERGUNTAS ESSENCIAIS: "O QUE VOCE FEZ ONTEM. "O QUE VOCE PRETENDE FAZER HOJE" E "VOCE TEM ALGUMA DIFICULDADE"
+
+ - SCRUM MASTER
+
+
+
+https://www.mountaingoatsoftware.com/agile/scrum
+https://www.mountaingoatsoftware.com/presentations/an-introduction-to-scrum
+
+
+
+t
