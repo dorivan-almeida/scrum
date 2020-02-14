@@ -1,0 +1,49 @@
+Boa tarde!
+Tarde!
+
+
+
+Sprints longos com muitas entregas x mais Sprints curtos com poucas entregas ?
+
+pelo que entendi, cada sprint entrega algo. Entao, mais sprints entregariam mais.
+l
+Acho que Quanto mais Sprints, menores serão as entregas.
+
+a questão é, o que são menores entregas?
+
+Exemplos: Uma Landing page com um formulário de contato.
+
+   - Maior Sprint: o formulário já manda pruma base de dados
+   - Menor Sprint: o formulário manda prum e-mail safado e tem um guerreiro que vai lá e cadastra as informações na mão.
+
+nesse sentido, maior sprint = maior valor, menor sprint menor valor entregue... nao tem necessariamente haver com quantidade, eu tinha entendi na primeira frase que "muitas entregas" eram muitas entregas e nao uma entrega com valor maior
+
+
+* Caraca, ainda bem que eu estava na tela do Dontpad!!!
+
+hahah  ahahahahahahahahahhahaha
+
+
+=======
+
+requerimentos do sistema 
+
+	requimentos de software
+
+		analise do problema 
+
+			design do projeto
+
+				desenvolver o sistema (codar)
+							--> aqui o cliente começa a ver o projeto como tá ficando
+					teste do software
+
+						colocar em produção
+
+iterativo <> interativo
+RUP? ...relação da ducmentações do projeto
+UML - linguagem de modelagem unificada
+
+agilidade = é entregar o valor rapidamente, valor é tudo aquilo que tem importância para o cliente.
+
+time-box = caixa de tempo, tem um tempo pre definido para ser colocado em pratica nas reuniões e cerimônia
